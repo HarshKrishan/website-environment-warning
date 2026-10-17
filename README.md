@@ -220,4 +220,4 @@ website-environment-warning/
 
 ## License
 
-Private / local project — adjust as needed for your team.
+MIT — see [LICENSE](LICENSE).
